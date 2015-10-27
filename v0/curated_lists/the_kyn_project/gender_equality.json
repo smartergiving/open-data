@@ -1,0 +1,283 @@
+{
+  "sgvg": [
+
+    {
+      "key" : "global_fund_for_women",
+      "name" : "Global Fund For Women",
+      "description" : "Global Fund for Women advances the rights of women and girls worldwide by increasing the resources for and investing in women-led organizations and women’s collective leadership for change.",
+      "target_outcome" : "More global, women-focused, grassroots organizations receiving the funding they need to continue their work.",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.globalfundforwomen.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/77-0155782/global-fund-women.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "jacki_zehner",
+          "name" : "Jacki Zehner",
+          "text" : "I could never identify the partners they have on my own but in giving to them I know I am supporting the global women’s movement",
+          "source" : "https://bluenotes.anz.com/posts/2014/12/philanthropy-isnt-just-for-the-wealthy"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "770155782"
+      }
+    },
+
+    {
+      "key" : "shes_the_first",
+      "name" : "She's The First",
+      "description" : "She's The First sponsors girls' education in low-income countries with the goal of creating first-generation graduates and our next generation of global leaders",
+
+      "target_outcome" : "The creation of more female, first-generation graduates through sponsored education in low-income countries",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.shesthefirst.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/65-1321437/she's-first.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "ruth_ann_harnisch",
+          "name" : "Ruth Ann Harnisch",
+          "text" : "Using the passion and volunteer power of 125 campus chapters, She’s The First provides scholarships and support for girls in 10 countries. Founder Tammy Tibbetts is a dynamic leader who produces measurable results.",
+          "source" : "The Kyn Project"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "651321437"
+      }
+    },
+
+    {
+      "key" : "women_thrive_worldwide",
+      "name" : "Women Thrive Worldwide",
+      "summary" : "Shaping US Policy",
+      "description" : "Women Thrive Worldwide’s mission is to advocate for change at the U.S. and global levels so that women and men share equally in the enjoyment of basic capabilities, economic assets, voice, access to decent livelihoods, and freedom from fear and violence. We ground our work in the realities of women living in poverty, partner with locally based women’s organizations, and create powerful coalitions to advance the interests of women, families, and communities worldwide.",
+      "target_outcome" : "Bring the voice of women around the world directly to decision-makers in Washington, D.C.",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://womenthrive.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/52-2100597/women-thrive-worldwide.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "stacey_keare",
+          "name" : "Stacey Keare",
+          "text" : "In my opinion, you can’t provide services and support nonprofits without also supporting the advocacy side. It’s very important, yet an area that doesn’t get enough funding.",
+          "source" : "http://womenthrive.org/blog/donor-spotlight-stacey-keare-girls-rights-project"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "522100597"
+      }
+    },
+
+    {
+      "key" : "geena_davis_institute_on_gender_in_media",
+      "name" : "Geena Davis Institute on Gender in Media",
+      "description" : "Founded by Academy Award®-winning actor and advocate Geena Davis, the Institute is the only research-based organization working within the media and entertainment industry to engage, educate, and influence the need to dramatically improve, gender balance, reduce stereotyping and create diverse female characters in entertainment targeting children 11 and under.",
+      "target_outcome" : "More writers, producers, and directors including girls and women in their productions",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://seejane.org/"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "ruth_ann_harnisch",
+          "name" : "Ruth Ann Harnisch",
+          "text" : "The Academy Award winner was an early voice calling for girls and women to be represented on screen. Because 'we can’t be what we can’t see,'...",
+          "source" : "The Kyn Project"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "",
+        "fiscal_sponsor" : "Mount Saint Mary's University"
+      }
+    },
+
+    {
+      "key" : "ms_foundation_for_women",
+      "name" : "Ms. Foundation for Women",
+      "description" : "The Ms. Foundation for Women champions women's progressive causes and works towards advancing solutions that empower women, especially those in marginalized communities. The organization supports grassroots organization through direct grants with additional programs in advocacy and policy.",
+      "target_outcome" : "Build women's collective power to realize a nation of justice for all",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://forwomen.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/23-7252609/ms-foundation-women.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "ruth_ann_harnisch",
+          "name" : "Ruth Ann Harnisch",
+          "text" : "The USA’s powerful champion of women’s legal rights, the Ms. Foundation for Women works to build a community to defend and protect women’s rights, safety, and well-being",
+          "source" : "The Kyn Project"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "237252609"
+      }
+    },
+
+    {
+      "key" : "a_long_walk_home",
+      "name" : "A Long Walk Home",
+      "description" : "Founded in 2003, A Long Walk Home is a Chicago-based national non-profit that uses art to educate, inspire, and mobilize young people to end violence against girls and women.",
+      "target_outcome" : "Mobilize young people to end violence against girls and women through art therapy and the visual and performing arts",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.alongwalkhome.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/30-0053613/a-long-walk-home.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "novo_foundation",
+          "name" : "Novo Foundation",
+          "text" : "A Long Walk Home...has educated more than a hundred thousand survivors and their supporters to build safe communities and end gender violence in just a few years.",
+          "source" : "http://novofoundation.org/novointhemedia/leveraging-momentum-in-the-movement-to-end-violence-against-girls-and-women/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "300053613"
+      }
+    },
+
+    {
+      "key" : "womens_funding_network",
+      "name" : "Women's Funding Network",
+      "us_ein" : "411685134",
+      "description" : "As a global network and a movement for social justice, WFN accelerates women's leadership and invest in solving critical social issues -- from poverty to global security -- by bringing together the financial power, influence and voices of women's funds.",
+      "target_outcome" : "A global community of women’s funds and foundations working effectively, sharing learning, and taking collective action. ",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.womensfundingnetwork.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/41-1685134/women's-funding-network.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "ruth_ann_harnisch",
+          "name" : "Ruth Ann Harnisch",
+          "text" : "Why reinvent the wheel? For 30 years, WFN has been leading women’s funds and foundations in sharing their learning and best practices in raising money and serving the needs of women and girls.",
+          "source" : "The Kyn Project"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "411685134"
+      }
+    },
+
+    {
+      "key" : "urge",
+      "name" : "URGE (Unite for Reproductive & Gender Equity)",
+      "us_ein" : "521772575",
+      "description" : "URGE, formerly Choice USA, engages young people in creating and leading the way to sexual and reproductive justice for all by providing training, field mobilization, and national leadership for a youth-driven agenda.",
+      "target_outcome" : "Groups of dedicated students working tirelessly for reproductive justice at a campus, state, and national level",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://urge.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/52-1772575/choice-usa.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "the_overbrook_foundation",
+          "name" : "The Overbrook Foundation",
+          "text" : "[URGE] is an advocacy and leadership development organization, with a 21-year track record of success running national, state, and local campaigns with young people.",
+          "source" : "http://www.overbrook.org/human-rights/reproductive-justice/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "521772575"
+      }
+    },
+
+    {
+      "key" : "thistle_farms",
+      "name" : "Thistle Farms",
+      "description" : "Thistle Farms and Magdalene are a social enterprise, and residential community, for women who have survived lives of prostitution, trafficking, addiction and life on the streets. For two years, women are invited to live in one of 5 residential houses at no cost to them. Employment is offered through Thistle Farms which houses a body care company, cafe (Thistle Stop), global initiative (Shared Trade: A Fair Share for Women), and a paper and sewing workshop (The Studios).",
+      "target_outcome" : "Women survivors of prostitution, trafficking, and addiction acquiring the skills they need to earn a living wage",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.thistlefarms.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/58-2050089/magdalene.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "ruth_ann_harnisch",
+          "name" : "Ruth Ann Harnisch",
+          "text" : "Founded in 1997, Magdalene[/Thistle Farms] is the pioneering residential program for women who have survived prostitution, trafficking and addiction, now an international model for recovery.",
+          "source" : "The Kyn Project"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "582050089"
+      }
+    },
+
+    {
+      "key" : "chicken_egg_pictures",
+      "name" : "Chicken & Egg Pictures",
+      "description" : "Chicken & Egg Pictures supports women non-fiction filmmakers whose artful and innovative storytelling catalyzes social change.",
+      "target_outcome" : "More female filmmakers of nonfiction films - because great storytelling can lead to social change",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://chickeneggpics.org/"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "ruth_ann_harnisch",
+          "name" : "Ruth Ann Harnisch",
+          "text" : "The women who founded and run Chicken & Egg understand that it’s challenging for women who make documentary films to tell the stories they want to while building lasting, sustainable careers.",
+          "source" : "The Kyn Projecct"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "",
+        "fiscal_sponsor" : "Tides Center"
+      }
+    }
+
+  ]
+}
