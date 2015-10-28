@@ -1,0 +1,269 @@
+{
+  "sgvg" : [
+
+    {
+      "key" : "one_degree",
+      "name" : "One Degree",
+      "description" : "An online platform that makes it easier to find social services for anyone with online access. Currently focused on the Bay Area.",
+      "target_outcome" : "More families getting access to the services they need to overcome poverty",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "https://www.1deg.org/"
+        }
+      ],
+      "insights" : [
+          {
+            "key" : "google_org",
+            "name" : "Google.org",
+            "text" : "...revolutionizing the way low-income families access poverty-fighting resources...",
+            "source" : "https://plus.google.com/+googleorg/posts/C11JcpryAqb"
+          }
+        ],
+        "donation_info" : {
+          "us_ein" : "364729392"
+        }
+    },
+
+    {
+      "key" : "crisis_text_line",
+      "name" : "Crisis Text Line",
+      "description" : "Teenagers love to text—their thumbs pound out an average of 3,339 texts per month. Crisis Text Line turns this into a way to help teens through their hardest times: family issues, stress or suicidal thoughts. Trained counselors text back and forth with advice and resources—and, in the process, collect (anonymous) data that could lead to better policy to protect teens.",
+      "grantee_desired_outcome" : "More teens getting the support they need",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.crisistextline.org/"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "john_s_and_james_l_knight_foundation",
+          "name" : "Knight Foundation",
+          "text" : "Crisis Text Line is helping to build awareness around an important issue and creating a strong tool for problem-solving",
+          "source" : "http://www.knightfoundation.org/grants/201447977/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "465039599"
+      }
+    },
+
+    {
+      "key" : "caremessage",
+      "name" : "CareMessage",
+      "description" : "CareMessage helps clinics, hospitals, community programs and government agencies connect with at-risk patients through the use of text and voice messaging.",
+      "target_outcome" : "Greater patient engagement and improved self-care for low-income patients",
+      "links" : [
+          {
+            "name" : "Website",
+            "link" : "http://caremessage.org/"
+          }
+      ],
+      "insights" : [
+        {
+          "key" : "draper_richards_kaplan_foundation",
+          "name" : "Draper Richards Kaplan Foundation",
+          "text" : "The secret sauce is that CareMessage's automated system is smart. With every interaction, the system learns about the patient's behavior and provides more personalized content",
+          "source" : "http://www.drkfoundation.org/caremessage.html"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "273252911"
+      }
+    },
+
+    {
+      "key" : "the_center_for_public_integrity",
+      "name" : "The Center For Public Integrity",
+      "description" : "Nonprofit, nonpartisan organization does investigations and analyses of public service, government accountability, and ethics related issues.",
+      "target_outcome" : "Fewer instances of abuses of power, corruption and betrayal of public trust by powerful institutions",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.publicintegrity.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/54-1512177/center-public-integrity.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "craig_newmark",
+          "name" : "Craig Newmark",
+          "text" : "The Center does high-quality investigative reporting, vital to the future of a free country",
+          "source" : "http://www.publicintegrity.org/about/our-work/supporters"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "541512177"
+      }
+    },
+
+    {
+      "key" : "zidisha",
+      "name" : "Zidisha",
+      "description" : "Person to person microlending: Zidisha allows people to lend small amounts of money directly to entrepreneurs in developing countries.",
+      "target_outcome" : "More affordable loans to populations in low-income countries",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "https://www.zidisha.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/80-0494876/zidisha.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "y_combinator",
+          "name" : "Y Combinator",
+          "text" : "Zidisha is already changing lives and transforming communities",
+          "source" : "http://blogs.wsj.com/venturecapital/2014/08/25/y-combinator-nonprofit-zidisha-changes-microfinance-equation/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "800494876"
+      }
+    },
+
+    {
+      "_id" : "y5aaZar68ky3zHWLh",
+      "key" : "medic_mobile",
+      "name" : "Medic Mobile",
+      "description" : "Mobile and web tools that help health workers register pregnancies, track disease outbreaks, keep stock of medicines and communicate about emergencies",
+      "target_outcome" : "Improved health in underserved and disconnected communities",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://medicmobile.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/27-5104203/medic-mobile.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "skoll_foundation",
+          "name" : "Skoll Foundation",
+          "text" : "Across 20 countries, its tools support 8,000 frontline health workers and benefit approximately six million people with plans to double these numbers annually",
+          "source" : "http://www.skollfoundation.org/tag/medic-mobile/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "275104203"
+      }
+    },
+
+    {
+      "key" : "bayes_impact",
+      "name" : "Bayes Impact",
+      "description" : "Non-profit organization dedicated to solving big social problems with #datascience",
+      "target_outcome" : "Improved access to world-class data science tools and experts for civic and nonprofit institutions",
+      "links" : [
+          {
+            "name" : "Website",
+            "link" : "http://www.bayesimpact.org/"
+          }
+      ],
+      "insights" : [
+        {
+          "key" : "merus_capital",
+          "name" : "Merus Capital",
+          "text" : "We're all so focused on leveraging 'Big Data' to solve big business issues, but shouldn't we be applying some of these efforts towards finding big solutions to big social problems? First? The world needs Bayes Impact.",
+          "source" : "https://twitter.com/MerusCapital/status/529031670381305856"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "264245043"
+      }
+    },
+
+    {
+      "key" : "moneythink",
+      "name" : "MoneyThink",
+      "description" : "Moneythink is the only movement of young people working to restore the economic health of America through financial education",
+      "target_outcome" : "Increasing teen financial literacy",
+      "links" : [
+          {
+            "name" : "Website",
+            "link" : "http://moneythink.org/"
+          },
+          {
+            "name" : "Guidestar",
+            "link" : "http://www.guidestar.org/organizations/27-1052771/moneythink.aspx"
+          }
+      ],
+      "insights" : [
+        {
+          "key" : "fast_forward",
+          "name" : "Fast Forward",
+          "text" : "Moneythink has taken their proven in-person financial literacy training program and extended it to where people make all their financial decisions - outside the classroom.  Moneythink's mobile app engages users with their curriculum and peers for more effective results.",
+          "source" : "http://www.ffwd.org/accelerator-for-tech-nonprofits-fast-forward-announces-inaugural-class/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "271052771"
+      }
+    },
+
+    {
+      "key" : "guidestar",
+      "name" : "Guidestar",
+      "description" : "Guidestar's latest initiative, GuideStar 2020, will ensure free and low-cost access to enhanced streams of information that can help nonprofits run smarter and more transparently",
+      "target_outcome" : "More information in the hands of donors when and where they are making decisions",
+      "links" : [
+          {
+            "name" : "Website",
+            "link" : "http://www.guidestar.org"
+          },
+          {
+            "name" : "Guidestar",
+            "link" : "http://www.guidestar.org/organizations/54-1774039/guidestar-usa.aspx"
+          }
+      ],
+      "insights" : [
+        {
+          "key" : "bill_melinda_gates_foundation",
+          "name" : "Bill & Melinda Gates Foundation",
+          "text" : "We believe the time has come in our sector to move beyond using basic validity and transparency information to really building a robust system to share insights that drive performance",
+          "source" : "http://philanthropy.com/article/Gates-Foundation-Pledges/149927/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "541774039"
+      }
+    },
+
+    {
+      "key" : "sirum",
+      "name" : "Sirum",
+      "description" : "Sirum saves lives by connecting unopened unexpired medications to patients in need",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.sirum.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/27-1103057/supporting-initiatives-redistribute-unused-medicine-sirum.aspx"
+        }
+      ],
+      "insights" : [
+        {
+          "key" : "robert_wood_johnson_foundation",
+          "name" : "Robert Wood Johnson Foundation",
+          "text" : "SIRUM identified a barrier and turned it into a simple, sustainable solution",
+          "source" : "http://www.rwjf.org/en/grants/grant-records/2012/11/demonstrating-scalability-of-a-model-to-redistribute-unused-medi.html"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "271103057"
+      }
+    }
+
+  ]
+}
