@@ -1,0 +1,251 @@
+{
+  "sgvg" : [
+
+    {
+      "key" : "new_story",
+      "name" : "New Story",
+      "description" : "New Story connects donors with homeless families around the world to create life-changing stories",
+      "yc_cohort" : "S15",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "https://newstorycharity.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/47-2529408/new-story.aspx"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "472529408"
+      }
+    },
+
+    {
+      "key" : "sunfarmer",
+      "name" : "SunFarmer",
+      "description" : "Sunfarmer is a non-profit that installs solar energy in hospitals, health clinics, and schools in the developing world",
+      "yc_cohort" : "S15",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.sunfarmer.org/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "",
+        "fiscal_sponsor" : ""
+      }
+    },
+
+    {
+      "key" : "80000_hours",
+      "name" : "80,000 Hours",
+      "description" : "An online guide that tells talented graduates how to maximize the social impact of their careers.",
+      "yc_cohort" : "S15",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "https://80000hours.org/"
+        }
+      ],
+      "donation_info" : {
+        "fiscal_sponsor" : "Centre For Effective Altruism",
+        "country" : "England"
+      }
+    },
+
+    {
+      "key" : "innerspace",
+      "name" : "InnerSpace",
+      "description" : "A wisdom community for startup founders",
+      "yc_cohort" : "S15",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.helloinnerspace.org/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "",
+        "fiscal_sponsor" : ""
+      }
+    },
+
+
+    {
+      "key" : "detroit_water_project",
+      "name" : "Detroit Water Project",
+      "description" : "The Detroit Water Project is a platform to help donors pay the delinquent water bills of people in Detroit",
+      "yc_cohort" : "W15",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "https://www.detroitwaterproject.org/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "",
+        "fiscal_sponsor" : "Edward Charles Foundation"
+      }
+    },
+
+    {
+      "key" : "democracyos",
+      "name" : "DemocracyOS",
+      "description" : "DemocracyOS is a software platform that allows regular voters to debate and forward policy ideas",
+      "yc_cohort" : "W15",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://democracyos.org/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "371776296"
+      }
+    },
+
+    {
+      "key" : "bayes_impact",
+      "name" : "Bayes Impact",
+      "description" : "Non-profit organization dedicated to solving big social problems with #datascience",
+      "yc_cohort" : "S14",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.bayesimpact.org/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "264245043"
+      }
+    },
+
+    {
+      "key" : "caremessage",
+      "name" : "CareMessage",
+      "description" : "CareMessage helps clinics, hospitals, community programs and government agencies connect with at-risk patients through the use of text and voice messaging.",
+      "yc_cohort" : "W14",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://caremessage.org/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "273252911"
+      }
+    },
+
+    {
+      "key" : "one_degree",
+      "name" : "One Degree",
+      "description" : "An online platform that makes it easier to find social services for anyone with online access. Currently focused on the Bay Area.",
+      "yc_cohort" : "W14",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "https://www.1deg.org/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "364729392"
+      }
+    },
+
+    {
+      "key" : "zidisha",
+      "name" : "Zidisha",
+      "description" : "Person to person microlending: Zidisha allows people to lend small amounts of money directly to entrepreneurs in developing countries.",
+      "yc_cohort" : "W14",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "https://www.zidisha.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/80-0494876/zidisha.aspx"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "800494876"
+      }
+    },
+
+    {
+      "key" : "noora_health",
+      "name" : "Noora Health",
+      "description" : "Empowering margenalized patients & families with high-impact medical skills to improve health outcomes in India & US",
+      "yc_cohort" : "W14",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.noorahealth.org/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "464746592"
+      }
+    },
+
+    {
+      "key" : "codenow",
+      "name" : "CodeNow",
+      "description" : "Teaches under-represented youth to code with a mission to diversify the talent pipeline of students who pursue computer science and technology",
+      "yc_cohort" : "W14",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://codenow.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/45-5001964/codenow.aspx"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "455001964"
+      }
+    },
+
+    {
+      "key" : "immunity_project",
+      "name" : "Immunity Project",
+      "description" : "The Immunity Project is working to deliver a free vaccine to prevent HIV and AIDs",
+      "yc_cohort" : "W14",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "https://www.immunityproject.org/"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "",
+        "fiscal_sponsor" : "Until There's A Cure"
+      }
+    },
+
+    {
+      "key" : "watsi",
+      "name" : "Watsi",
+      "description" : "All over the world people are dying of treatable illnesses because they can't afford basic medical care. Watsi connects you with patients in serious need of low-cost medical care and enables you to fund high-impact treatments.",
+      "yc_cohort" : "W13",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://watsi.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/45-3236734/watsi.aspx"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "364729392"
+      }
+    }
+
+  ]
+}
