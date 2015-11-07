@@ -13,3 +13,6 @@ We firmly believe nonprofit and charitable data shouldn't be stuck behind paywal
 While you are free to use any of the data for any purpose, know that the data, file structure, and every other component are subject to change.
 
 ***
+
+## License  
+This open database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/ - See more at: http://opendatacommons.org/licenses/odbl/#sthash.sjzykYpd.dpuf
