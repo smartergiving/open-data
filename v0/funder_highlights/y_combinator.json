@@ -107,6 +107,26 @@
     },
 
     {
+      "key" : "sirum",
+      "name" : "SIRUM",
+      "description" : "SIRUM saves lives by connecting unopened unexpired medications to patients in need",
+      "yc_cohort" : "W15",
+      "links" : [
+        {
+          "name" : "Website",
+          "link" : "http://www.sirum.org/"
+        },
+        {
+          "name" : "Guidestar",
+          "link" : "http://www.guidestar.org/organizations/27-1103057/supporting-initiatives-redistribute-unused-medicine-sirum.aspx"
+        }
+      ],
+      "donation_info" : {
+        "us_ein" : "271103057"
+      }
+    },
+
+    {
       "key" : "bayes_impact",
       "name" : "Bayes Impact",
       "description" : "Non-profit organization dedicated to solving big social problems with #datascience",
