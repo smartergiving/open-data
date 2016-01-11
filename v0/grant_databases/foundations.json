@@ -1,0 +1,10 @@
+{
+  "dbs": [
+    {
+      "foundation_name": "Walter & Elise Haas Fund",
+      "foundation_key": "walter_elise_haas_fund",
+      "url_feed": "http://www.haassr.org/grants/feed/",
+      "format": "hgrant"
+    }
+  ]
+}
