@@ -25,6 +25,7 @@ We firmly believe nonprofit and charitable data shouldn't be stuck behind paywal
 ### Contributing  
 
 If you'd like to add your data or feed to this project, pull requests are most welcome.  
+
 1. JSON format is preferred  
 1. Use your existing schema  
 1. Add your source to the README  
