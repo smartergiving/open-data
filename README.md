@@ -11,15 +11,18 @@ We firmly believe nonprofit and charitable data shouldn't be stuck behind paywal
 ***
 ### Sources  
 
-##### Curated Lists of Nonprofits  
-1. [DollarADay](https://dollaraday.co/)  
-1. [The Kyn Project](http://smartergiving.org/dispatch/)  
+*All sources are machine readable and included directly in this repository when available.*  
 
-##### Grant Database Feeds  
-1. Walter & Elise Haas Fund ([hGrant](http://www.haassr.org/grants/feed/))  
+##### Curated Lists of Nonprofits  
+1. DollarADay ([view site](https://dollaraday.co/)) 
+1. The Kyn Project ([view site](http://smartergiving.org/dispatch/))  
+
+##### Grant Databases & Feeds  
+1. Walter & Elise Haas Fund ([hGrant feed](http://www.haassr.org/grants/feed/))  
+1. The Detroit Ledger ([API](http://docs.detroitledger.apiary.io/#))
 
 ##### Funder Highlights  
-1. Y Combinator Nonprofit Program
+1. Y Combinator Nonprofit Program  
 
 ***
 ### Contributing  
