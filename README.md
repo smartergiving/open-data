@@ -30,23 +30,27 @@ Alternatively, get in touch via  <opendata@smartergiving.org>.
 *Data available for download in this repository*  
 
 1. ##### Curated Lists of Nonprofits  
+
   - DollarADay ([view site](https://dollaraday.co/)) 
   - The Kyn Project ([view site](http://smartergiving.org/dispatch/))  
 
 1. ##### Grant Databases & Feeds  
+
   - The Detroit Ledger ([API](http://docs.detroitledger.apiary.io/#))
 
 1. ##### Funder Highlights  
+
   - Y Combinator Nonprofit Program  
 
 #### Feeds & APIs  
+
 *Data available via free, publicly available data files or API*  
 
 1. ##### hGrant Feeds  
+
   - Walter & Elise Haas Fund ([feed](http://www.haassr.org/grants/feed/))  
   - Hewlett Foundation ([feed](http://grantsfeed.hewlett.org/CurrentGrants.aspx))  
   - Mott Foundation ([feed](http://www.mott.org/FundingInterests/programs/grantrssFeedBurner.aspx))
-
 
 ***
   
