@@ -3,28 +3,13 @@
 A completely open, git-driven database of nonprofit information.
 
 **Purpose**  
-Provide designers and developers the tools and data needed to experiment and innovate at all levels of the 'charity stack'.
+Having free, open philanthropic data promotes experimentation and innovation from developers and designers of all sizes.
 
 **Background**  
-We firmly believe nonprofit and charitable data shouldn't be stuck behind paywalls. As developers, we grew tired of running into roadblocks finding machine-readable data that was NOT kept hostage by a paywall, so we decided to do something about it.
+We firmly believe nonprofit and charitable data shouldn't be stuck behind paywalls. As developers, we grew tired of running into roadblocks finding machine-readable data that was NOT kept hostage by a paywall.  
 
-***
-### Sources  
+***  
 
-*All sources are machine readable and included directly in this repository when available.*  
-
-##### Curated Lists of Nonprofits  
-1. DollarADay ([view site](https://dollaraday.co/)) 
-1. The Kyn Project ([view site](http://smartergiving.org/dispatch/))  
-
-##### Grant Databases & Feeds  
-1. Walter & Elise Haas Fund ([hGrant feed](http://www.haassr.org/grants/feed/))  
-1. The Detroit Ledger ([API](http://docs.detroitledger.apiary.io/#))
-
-##### Funder Highlights  
-1. Y Combinator Nonprofit Program  
-
-***
 ### Contributing  
 
 If you'd like to add your data or feed to this project, pull requests are most welcome.  
@@ -37,7 +22,34 @@ If you'd like to add your data or feed to this project, pull requests are most w
 
 Alternatively, get in touch via  <opendata@smartergiving.org>.  
 
+***  
+
+### Sources  
+
+#### Raw Data  
+*Data available for download in this repository*  
+
+1. ##### Curated Lists of Nonprofits  
+  - DollarADay ([view site](https://dollaraday.co/)) 
+  - The Kyn Project ([view site](http://smartergiving.org/dispatch/))  
+
+1. ##### Grant Databases & Feeds  
+  - The Detroit Ledger ([API](http://docs.detroitledger.apiary.io/#))
+
+1. ##### Funder Highlights  
+  - Y Combinator Nonprofit Program  
+
+#### Feeds & APIs  
+*Data available via free, publicly available data files or API*  
+
+1. ##### hGrant Feeds  
+  - Walter & Elise Haas Fund ([feed](http://www.haassr.org/grants/feed/))  
+  - Hewlett Foundation ([feed](http://grantsfeed.hewlett.org/CurrentGrants.aspx))  
+  - Mott Foundation ([feed](http://www.mott.org/FundingInterests/programs/grantrssFeedBurner.aspx))
+
+
 ***
+  
 ### Roadmap
 Join the conversation [here](https://github.com/smartergiving/open-data/issues/2).
 

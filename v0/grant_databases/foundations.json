@@ -5,6 +5,18 @@
       "foundation_key": "walter_elise_haas_fund",
       "url_feed": "http://www.haassr.org/grants/feed/",
       "format": "hgrant"
+    },
+    {
+      "foundation_name": "Hewlett Foundation",
+      "foundation_key": "hewlett_foundation",
+      "url_feed": "http://grantsfeed.hewlett.org/CurrentGrants.aspx",
+      "format": "hgrant"
+    },
+    {
+      "foundation_name": "Mott Foundation",
+      "foundation_key": "mott_foundation",
+      "url_feed": "http://www.mott.org/FundingInterests/programs/grantrssFeedBurner.aspx",
+      "format": "hgrant"
     }
   ]
 }
