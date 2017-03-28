@@ -31,7 +31,7 @@ Alternatively, get in touch via  <opendata@smartergiving.org>.
 
 1. ##### Curated Lists of Nonprofits  
 
-  - DollarADay ([view site](https://dollaraday.co/)) 
+  - DollarADay ([view site](https://dollaraday.co/))
   - The Kyn Project ([view site](http://smartergiving.org/dispatch/))  
 
 1. ##### Grant Databases & Feeds  
@@ -50,10 +50,14 @@ Alternatively, get in touch via  <opendata@smartergiving.org>.
 
   - Walter & Elise Haas Fund ([feed](http://www.haassr.org/grants/feed/))  
   - Hewlett Foundation ([feed](http://grantsfeed.hewlett.org/CurrentGrants.aspx))  
-  - Mott Foundation ([feed](http://www.mott.org/FundingInterests/programs/grantrssFeedBurner.aspx))
+  - Mott Foundation ([feed](http://www.mott.org/FundingInterests/programs/grantrssFeedBurner.aspx))  
+
+2. ##### 360Giving
+
+ - Registry ([link](http://www.threesixtygiving.org/data/data-registry/))
 
 ***
-  
+
 ### Roadmap
 Join the conversation [here](https://github.com/smartergiving/open-data/issues/2).
 
